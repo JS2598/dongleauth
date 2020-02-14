@@ -104,6 +104,16 @@ websites:
       otp: Yes
       doc: https://helpdesk.lastpass.com/multifactor-authentication-options/
 
+    - name: Microsoft
+      url: https://azure.microsoft.com/en-us/services/active-directory/
+      img: microsoft.png
+      tfa: Yes
+      sms: Yes
+      software: Yes
+      hardware: Yes
+      otp: Yes
+      doc: https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-passwordless
+
     - name: MyDigipass.com
       url: https://mydigipass.com/
       img: mydigipass.png
